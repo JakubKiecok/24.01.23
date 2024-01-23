@@ -1,0 +1,5 @@
+﻿  Państwa.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\24.01.23\Państwa\Państwa\Państwa.cpp(26,26): warning C4838: konwersja z „__int64” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\JKiecok2CT\24.01.23\Państwa\Państwa\Państwa.cpp(26,26): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\24.01.23\Państwa\Państwa\Państwa.cpp(26,26): warning C4309: "inicjowanie": obcięcie stałej wartości
+  Państwa.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\24.01.23\Państwa\x64\Debug\Państwa.exe
